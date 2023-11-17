@@ -25,8 +25,8 @@
     <h2>Over</h2>
     <ul>
       <li><a href="#over" aria-label="Over ons">Over ons</a></li>
-      <li><a href="#klimaatadaptatie" aria-label="Klimaatadaptatie.">Klimaatadaptatie</a></li>
-      <li><a href="#waterkwaliteit" aria-label="Waterkwaliteit.">Waterkwaliteit</a></li>
+      <li><a href="#klimaatadaptatie" aria-label="Klimaatadaptatie">Klimaatadaptatie</a></li>
+      <li><a href="#waterkwaliteit" aria-label="Waterkwaliteit">Waterkwaliteit</a></li>
       <li><a href="#brain" aria-label="b-RAIN">b-RAIN</a></li>
       <li><a href="#projecten" aria-label="Projecten">Projecten</a></li>
       <li><a href="#kennisbank" aria-label="Kennisbank">Kennisbank</a></li>
